@@ -223,6 +223,3 @@ function DropdownMenu() {
 2. **Common Use Cases**: Positioning tooltips/dropdowns, measuring elements, adjusting scroll position.  
 3. **Avoid** for non-visual tasks (use `useEffect`).  
 
-
-
-
